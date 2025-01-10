@@ -1,36 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background: #f4f4f9;
-    color: #333;
-  }
-  
-  header {
-    background: #333;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
-  }
-  
-  header h1 {
-    margin: 0;
-  }
-  
-  nav a {
-    color: #fff;
-    text-decoration: none;
-    margin: 0 10px;
-  }
-  
-  footer {
-    text-align: center;
-    padding: 1rem 0;
-    background: #333;
-    color: #fff;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-  }
-  
+  scroll-behavior: smooth;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: 0.5s ease;
+}
+
+.overlay:hover {
+  width: 100%;
+  left: 0;
+}
+
+.overlay p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.secondary-title {
+  @apply text-3xl font-bold;
+}
+
+.section-paragraph {
+  @apply text-secondary my-6 max-w-3xl;
+}
+
+button {
+  @apply transition duration-300 ease-in hover:bg-secondary hover:text-white;
+}

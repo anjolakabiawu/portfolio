@@ -1,55 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Hi, I'm AnjolaiyaIfeoluwademilade</h1>
-            <p>A Machine Learning Engineer & Chemical Engineer</p>
-            <a href="#about" class="btn">Learn More</a>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anjolaiya's Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="bg-body text-black font-cabinet pb-12">
+    <!-- Header Section -->
+    <header class="py-6">
+      <div class="container flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24">
+        <div class="text-lg font-bold">Anjolaiya</div>
+        <div class="hidden md:flex space-x-12 items-center">
+          <a href="#" class="text-selected-text">Home</a>
+          <a href="#projects">Projects</a>
+          <a href="#about">About</a>
+          <a href="#contact">
+            <button class="px-6 py-2 bg-theme font-bold">Contact Me</button>
+          </a>
         </div>
+      </div>
     </header>
 
-    <section id="about">
-        <div class="container">
-            <h2>About Me</h2>
-            <p>
-                I'm a recent graduate of Chemical Engineering with a passion for building machine learning models 
-                and deploying AI solutions. My experience includes Flask API development, sentiment analysis, 
-                and working with tools like TensorFlow.
-            </p>
+    <!-- Hero Section -->
+    <section class="container mt-16 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+        <div class="text-center md:text-left">
+          <h1 class="font-bold text-5xl md:text-6xl lg:text-7xl">
+            Creating Intelligent<br />Solutions with Data.
+          </h1>
+          <p class="mt-6 text-secondary">
+            I specialize in building machine learning models and chemical process optimizations. Passionate about deploying real-world AI solutions.
+          </p>
+          <a href="#projects" class="btn mt-6 px-8 py-4 bg-theme text-white font-bold">
+            View My Work
+          </a>
         </div>
+        <div class="flex justify-center">
+          <img src="images/machine-learning.svg" alt="Machine Learning" class="w-full max-w-sm" />
+        </div>
+      </div>
     </section>
 
-    <section id="projects">
-        <div class="container">
-            <h2>My Projects</h2>
-            <div class="project-grid">
-                <div class="project">
-                    <img src="project1.jpg" alt="Project 1">
-                    <h3>Sentiment Analysis</h3>
-                    <p>A Flask-based web app for analyzing customer sentiment using machine learning models.</p>
-                </div>
-            </div>
-        </div>
+    <!-- Projects Section -->
+    <section id="projects" class="container mt-20 px-8 md:px-14 lg:px-24">
+      <h2 class="secondary-title">Projects</h2>
+      <p class="section-paragraph">
+        Here are some of the projects I've worked on in machine learning.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
+        <div class="p-4">
+          <div class="relative border-2 border-black rounded-lg overflow-hidden">
+            <a href="https://sentiment-analysis.example.com" target="_blank">
+              <img src="images/sentiment-analysis.jpg" alt="Sentiment Analysis Project" class="w-full h-64 object-cover" />
+              <div class="overlay">
+                <p class="text-white text-center px-4 font-medium">
+                  Sentiment Analysis: An NLP-based web app for analyzing customer feedback.
+                </p>
+              </div>
+            </a>
+          </div>
+      </div>
     </section>
 
-    <section id="contact">
-        <div class="container">
-            <h2>Contact Me</h2>
-            <p>Email: <a href="anjolakabiawu6@gmail.com">ifeoluwademilade@example.com</a></p>
-            <p>GitHub: <a href="https://github.com/anjolakabiawu" target="_blank">github.com/anjolakabiawu</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172" target="_blank">linkedin.com/in/ifeoluwademilade</a></p>
-        </div>
+    <!-- About Section -->
+    <section id="about" class="container mt-20 px-8 md:px-14 lg:px-24">
+      <h2 class="secondary-title">About Me</h2>
+      <p class="section-paragraph">
+        I’m a recent Chemical Engineering graduate with 5 years of Python experience and expertise in deploying machine learning models for web applications.
+      </p>
     </section>
 
-    <footer>
-        <p>&copy; 2025 Anjolaiya. All rights reserved.</p>
+    <!-- Contact Section -->
+    <section id="contact" class="container mt-20 px-8 md:px-14 lg:px-24">
+      <h2 class="secondary-title">Contact Me</h2>
+      <p class="section-paragraph">Have a project in mind? Feel free to reach out!</p>
+      <form action="anjolakabiawu6@gmail.com" method="post">
+        <div class="space-y-4">
+          <input type="text" placeholder="Name" class="w-full border border-input-border p-4 rounded-lg" />
+          <input type="email" placeholder="Email" class="w-full border border-input-border p-4 rounded-lg" />
+          <textarea placeholder="Your Message" class="w-full border border-input-border p-4 rounded-lg"></textarea>
+          <button class="px-6 py-3 bg-theme text-white font-bold" type="submit">Send Message</button>
+        </div>
+      </form>
+    </section>
+
+    <footer class="mt-20 text-center">
+      <p>&copy; 2025 Anjolaiya. All rights reserved.</p>
     </footer>
-</body>
+  </body>
 </html>
