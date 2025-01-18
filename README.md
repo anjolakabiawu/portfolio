@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Flask, Docker
 
 ## Education	        		
 - B.S., Chemical Engineering | The University of Lagos at Lagos (_August 2024_)
