@@ -1,2 +1,6 @@
-# portfolio
-Anjola's Portfolio
+# Data Scientist
+
+### Education
+Chemical Engineering, Bsc
+
+### Work Experience
