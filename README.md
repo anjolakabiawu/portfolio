@@ -1,20 +1,34 @@
 # Data Scientist
 
+## **Contact**
+- **Email:** anjolakabiawu6@gmail.com  
+- **LinkedIn:** [linkedin.com/in/anjolaiya-kabiawu-778ab2172](https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172)  
+- **GitHub:** [github.com/anjolakabiawu](https://github.com/anjolakabiawu)  
+- **Datacamp Workspace:** [Datacamp Overview](https://app.datacamp.com/workspace/overview)
+
 #### Technical Skills: Python, SQL, Flask, Docker
 
 ## Education	        		
 - B.S., Chemical Engineering | The University of Lagos at Lagos (_August 2024_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## **Work Experience**
+### **Machine Learning Intern @ Ignitus**  
+*June 2023 – June 2024*  
+- Collected and organized datasets for training and validation of machine learning models.  
+- Conducted feature engineering to optimize model performance.  
+- Continuously enhanced skills through participation in courses and learning opportunities.  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### **Data Science Tutor @ EFICO Resources**  
+*January 2020 – November 2020*  
+- Simplified complex data science concepts for students.  
+- Developed lesson plans and learning materials tailored to student needs.  
+- Taught foundational and advanced concepts in Python, statistics, and machine learning.  
+
 
 ## Projects
 ### Email Spam Classifier
 
-
+## **Certifications**
+- **Global Internship Program**  
+- **Introduction to Data Science in Python**  
+- **Exploratory Data Analysis in Python** 
