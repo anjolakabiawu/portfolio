@@ -15,5 +15,6 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
+### Email Spam Classifier
 
 
