@@ -26,7 +26,10 @@
 
 
 ## Projects
-### Email Spam Classifier
+### **Email Spam Classifier Web App**  
+- Built a Flask-based web application to classify emails as spam or not spam.  
+- Developed and trained machine learning models using Python and Scikit-learn.  
+- Preprocessed email text using NLP techniques to extract relevant features for classification.  
 
 ## **Certifications**
 - **Global Internship Program**  
