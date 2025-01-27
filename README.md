@@ -6,8 +6,7 @@
 - B.Sc., Chemical Engineering | The University of Lagos at Lagos (_August 2024_)
 
 ## Projects
-[/assets/img/spa.jpeg](https://email-spam-classifier-kmja.onrender.com)
-### **Email Spam Classifier**  
+[![Email Spam Classifier](/assets/img/spa.jpeg)](https://email-spam-classifier-kmja.onrender.com)
 - The Email Spam Classifier App is a web application designed to identify and classify emails as either "Spam" or "Not Spam" using machine learning techniques. It utilizes natural language processing (NLP) for text preprocessing and a trained classification model to analyze email content.  
 
 ## **Work Experience**
