@@ -5,6 +5,11 @@
 ## Education	        		
 - B.Sc., Chemical Engineering | The University of Lagos at Lagos (_August 2024_)
 
+## Projects
+[/spam.webp](https://email-spam-classifier-kmja.onrender.com)
+### **Email Spam Classifier**  
+- The Email Spam Classifier App is a web application designed to identify and classify emails as either "Spam" or "Not Spam" using machine learning techniques. It utilizes natural language processing (NLP) for text preprocessing and a trained classification model to analyze email content.  
+
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
 *June 2023 – June 2024*  
@@ -16,14 +21,7 @@
 *January 2020 – November 2020*  
 - Simplified complex data science concepts for students.  
 - Developed lesson plans and learning materials tailored to student needs.  
-- Taught foundational and advanced concepts in Python, statistics, and machine learning.  
-
-
-## Projects
-### **Email Spam Classifier Web App**  
-- Built a Flask-based web application to classify emails as spam or not spam.  
-- Developed and trained machine learning models using Python and Scikit-learn.  
-- Preprocessed email text using NLP techniques to extract relevant features for classification.  
+- Taught foundational and advanced concepts in Python, statistics, and machine learning.
 
 ## **Certifications**
 - **Global Internship Program**  
