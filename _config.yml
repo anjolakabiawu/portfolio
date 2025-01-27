@@ -1,7 +1,9 @@
-title: Anjolaiya Kabiawu
+title: "Anjolaiya Kabiawu"
 #logo: /assets/img/headshot_circle.png
-description: I am a machine learning engineer with a passion for building intelligent solutions. 
-I specialize in developing efficient models to solve complex problems, leveraging tools like Python, TensorFlow, and cloud platforms. 
-My expertise includes creating scalable, data-driven systems while ensuring accessibility and performance for all users. With my skills, I aim to bridge the gap between data and actionable insights through robust machine learning applications.
-#show_downloads: true
-theme : jekyll-theme-minimal
+description: >
+  I am a machine learning engineer with a passion for building intelligent solutions.
+  I specialize in developing efficient models to solve complex problems, leveraging tools like Python, TensorFlow, and cloud platforms.
+  My expertise includes creating scalable, data-driven systems while ensuring accessibility and performance for all users. 
+  With my skills, I aim to bridge the gap between data and actionable insights through robust machine learning applications.
+# show_downloads: true
+theme: jekyll-theme-minimal
