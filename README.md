@@ -2,9 +2,6 @@
 
 #### Technical Skills: Python, SQL, Flask, Docker
 
-## Education	        		
-- B.Sc., Chemical Engineering | The University of Lagos at Lagos (_August 2024_)
-
 ## Projects
 <a href="https://email-spam-classifier-kmja.onrender.com">
   <img src="assets/img/spa.jpeg" alt="Email Spam Classifier" width="150">
@@ -29,7 +26,6 @@ The Email Spam Classifier App is a web application designed to identify and clas
 - **Global Internship Program**  
 - **Introduction to Data Science in Python**  
 - **Exploratory Data Analysis in Python**
-
 
 ## **Contact**
 - **Email:** anjolakabiawu6@gmail.com  
