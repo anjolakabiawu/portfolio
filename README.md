@@ -4,7 +4,7 @@
 
 ## Projects
 <a href="https://email-spam-classifier-kmja.onrender.com">
-  <img src="assets/img/spa.jpeg" alt="Email Spam Classifier" width="150">
+  <img src="assets/img/spa.jpeg" alt="Email Spam Classifier" width="300">
 </a>
 
 The Email Spam Classifier App is a web application designed to identify and classify emails as either "Spam" or "Not Spam" using machine learning techniques. It utilizes natural language processing (NLP) for text preprocessing and a trained classification model to analyze email content.  
@@ -12,21 +12,12 @@ The Email Spam Classifier App is a web application designed to identify and clas
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
 *June 2023 – June 2024*  
-- Collected and organized datasets for training and validation of machine learning models.  
-- Conducted feature engineering to optimize model performance.  
-- Continuously enhanced skills through participation in courses and learning opportunities.  
+As a Machine Learning Intern at Ignitus, I focused on collecting and organizing datasets for training and validating machine learning models. I conducted feature engineering to optimize model performance, ensuring the development of efficient and accurate solutions. During this internship, I actively enhanced my skills by participating in various courses and learning opportunities to stay updated with industry trends.
 
 ### **Data Science Tutor @ EFICO Resources**  
 *January 2020 – November 2020*  
-- Simplified complex data science concepts for students.  
-- Developed lesson plans and learning materials tailored to student needs.  
-- Taught foundational and advanced concepts in Python, statistics, and machine learning.
-
-## **Certifications**
-- **Global Internship Program**  
-- **Introduction to Data Science in Python**  
-- **Exploratory Data Analysis in Python**
+As a Data Science Tutor at EFICO Resources, I simplified complex data science concepts for students, making them more accessible and easier to understand. I created tailored lesson plans and learning materials to meet individual student needs.
 
 ## **Contact**
 - **Email:** anjolakabiawu6@gmail.com  
-  [LinkedIn](https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172)  |  [GitHub](https://github.com/anjolakabiawu)  |  [Datacamp Overview](https://app.datacamp.com/workspace/overview)
+  [LinkedIn](https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172)  |  [GitHub](https://github.com/anjolakabiawu) 
