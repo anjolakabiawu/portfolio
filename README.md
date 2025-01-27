@@ -1,15 +1,9 @@
-# Data Scientist
-
-## **Contact**
-- **Email:** anjolakabiawu6@gmail.com  
-- **LinkedIn:** [linkedin.com/in/anjolaiya-kabiawu-778ab2172](https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172)  
-- **GitHub:** [github.com/anjolakabiawu](https://github.com/anjolakabiawu)  
-- **Datacamp Workspace:** [Datacamp Overview](https://app.datacamp.com/workspace/overview)
+# Machine Learning Engineer
 
 #### Technical Skills: Python, SQL, Flask, Docker
 
 ## Education	        		
-- B.S., Chemical Engineering | The University of Lagos at Lagos (_August 2024_)
+- B.Sc., Chemical Engineering | The University of Lagos at Lagos (_August 2024_)
 
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
@@ -34,4 +28,9 @@
 ## **Certifications**
 - **Global Internship Program**  
 - **Introduction to Data Science in Python**  
-- **Exploratory Data Analysis in Python** 
+- **Exploratory Data Analysis in Python**
+
+
+## **Contact**
+- **Email:** anjolakabiawu6@gmail.com  
+  [LinkedIn](https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172)  |  [GitHub](https://github.com/anjolakabiawu)  |  [Datacamp Overview](https://app.datacamp.com/workspace/overview)
