@@ -8,6 +8,7 @@
 </a>
 
 The Email Spam Classifier App is a web application designed to identify and classify emails as either "Spam" or "Not Spam" using machine learning techniques. It utilizes natural language processing (NLP) for text preprocessing and a trained classification model to analyze email content.  
+[View project](https://email-spam-classifier-kmja.onrender.com)
 
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
