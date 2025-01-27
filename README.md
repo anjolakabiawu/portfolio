@@ -19,5 +19,4 @@ As a Machine Learning Intern at Ignitus, I focused on collecting and organizing 
 As a Data Science Tutor at EFICO Resources, I simplified complex data science concepts for students, making them more accessible and easier to understand. I created tailored lesson plans and learning materials to meet individual student needs.
 
 ## **Contact**
-- **Email:** anjolakabiawu6@gmail.com  
-  [LinkedIn](https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172)  |  [GitHub](https://github.com/anjolakabiawu) 
+<a href=":mailto:anjolakabiawu6@gmail.com" class="text-secondary underline mt-20">anjolakabiawu6@gmail.com</a> | [LinkedIn](https://www.linkedin.com/in/anjolaiya-kabiawu-778ab2172)  |  [GitHub](https://github.com/anjolakabiawu) | +234-70-6169-6268
