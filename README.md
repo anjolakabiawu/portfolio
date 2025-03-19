@@ -12,8 +12,11 @@ The Email Spam Classifier App is a web application designed to identify and clas
 [View project](https://email-spam-classifier-kmja.onrender.com)
 
 ### **Healthcare Translation App**
+<a href="https://healthcare-translation-vqgl.onrender.com/">
+  <img src="assets/img/health.webp" alt="Healthcare Translation App" width="300">
+</a>
 The Healthcare Translation Web App is a real-time multilingual communication tool designed to bridge language barriers between patients and healthcare providers. This web-based application converts spoken input into text, generates live transcripts, and provides instant translations with audio playback in multiple languages.
-[View project](https://healthcare-translation-vqgl.onrender.com/)
+[View project](https://healthcare-translation-vqgl.onrender.com)
 
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
