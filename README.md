@@ -1,14 +1,19 @@
 # Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, Flask, Docker
+#### Technical Skills: Python, SQL, Flask, Javascript, Html
 
 ## Projects
+### **Email Spam Classifier**
 <a href="https://email-spam-classifier-kmja.onrender.com">
   <img src="assets/img/spa.jpeg" alt="Email Spam Classifier" width="300">
 </a>
 
 The Email Spam Classifier App is a web application designed to identify and classify emails as either "Spam" or "Not Spam" using machine learning techniques. It utilizes natural language processing (NLP) for text preprocessing and a trained classification model to analyze email content.  
 [View project](https://email-spam-classifier-kmja.onrender.com)
+
+### **Healthcare Translation App**
+The Healthcare Translation Web App is a real-time multilingual communication tool designed to bridge language barriers between patients and healthcare providers. This web-based application converts spoken input into text, generates live transcripts, and provides instant translations with audio playback in multiple languages.
+[View project](https://healthcare-translation-vqgl.onrender.com/)
 
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
