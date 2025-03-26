@@ -19,6 +19,13 @@ The Email Spam Classifier App is a web application designed to identify and clas
 The Healthcare Translation Web App is a real-time multilingual communication tool designed to bridge language barriers between patients and healthcare providers. This web-based application converts spoken input into text, generates live transcripts, and provides instant translations with audio playback in multiple languages.
 [View project](https://healthcare-translation-vqgl.onrender.com)
 
+### Weather App
+<a href="https://weather-app-eta-opal-87.vercel.app/">
+</a>
+
+Built a weather web application using Flask to display the temperature, humidity, and wind speed of a specified location. The app provides real-time weather updates and a clean, user-friendly interface for quick data access.
+[View project](https://weather-app-eta-opal-87.vercel.app/)
+
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
 *June 2023 – June 2024*  
