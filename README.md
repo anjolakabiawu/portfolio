@@ -23,8 +23,8 @@ The Healthcare Translation Web App is a real-time multilingual communication too
 <a href="https://weather-app-d-ch9o.onrender.com/">
 </a>
 
-Built a weather web application using Flask to display the temperature, humidity, and wind speed of a specified location. The app provides real-time weather updates and a clean, user-friendly interface for quick data access.
-[View project](https://weather-app-eta-opal-87.vercel.app/)
+Built a weather web application using Django to display the temperature, humidity, and wind speed of a specified location. The app provides real-time weather updates and a clean, user-friendly interface for quick data access.
+[View project](https://weather-app-d-ch9o.onrender.com/)
 
 ## **Work Experience**
 ### **Machine Learning Intern @ Ignitus**  
