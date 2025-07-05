@@ -8,9 +8,12 @@
 ---
 
 ### **Multiple Disease Prediction System**  
+<a href="https://anjolakabiawu-multiple-disease-prediction-app-ini1yh.streamlit.app/">
+  <img src="assets/img/disease.png" alt="Multiple Disease Prediction System" width="300">
+</a>
 
 A machine learning-powered web application built with Streamlit that predicts the likelihood of **Diabetes**, **Heart Disease**, and **Parkinson's Disease** based on medical details provided by the user. It offers real-time predictions with an interactive UI.  
-[View project]([https://your-streamlit-app-link](https://anjolakabiawu-multiple-disease-prediction-app-ini1yh.streamlit.app/))
+[View project](https://anjolakabiawu-multiple-disease-prediction-app-ini1yh.streamlit.app/)
 
 ---
 
